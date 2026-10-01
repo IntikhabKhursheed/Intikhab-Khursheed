@@ -1,5 +1,5 @@
 # Intikhab-Khursheed
-Hello Visitors, Welcome to Intikhab's Profile 👋
+Hello Visitors, Welcome to Intikhab's Profile
 
 I'm Intikhab Khursheed, a Full-Stack & AI Engineer working with Angular, React, Node.js, LLMs, and RAG. I build production systems — most recently in healthcare, real estate, and SaaS.
 
@@ -13,11 +13,11 @@ Lately I've also been pulling on a different thread: whether ideas from type-saf
 - **Applied AI** — AI-powered platforms for healthcare, real estate, and operations management
 - **Hardware verification (research track)** — studying the boundary between type-system guarantees and functional correctness in RTL design
 
-### 🧠 Interests
+###  Interests
 
 `Full-Stack Development` `LLMs & RAG` `AI/ML` `Hardware Verification` `Formal Methods`
 
-### 📌 Pinned work
+###  Pinned work
 
 - [`CareOs-Hospital`](https://github.com/IntikhabKhursheed/CareOs-Hospital) — AI-powered hospital & clinic management system (MERN + Grok AI)
 - [`real-estate-app`](https://github.com/IntikhabKhursheed/real-estate-app) — AI-powered real estate intelligence platform with valuation, agent CRM, and market analytics
@@ -25,6 +25,6 @@ Lately I've also been pulling on a different thread: whether ideas from type-saf
 - [`anvil-rtl-bug-study`](https://github.com/IntikhabKhursheed/anvil-rtl-bug-study) — five real-world RTL bugs, reproduced and analyzed against Anvil's timing-safety guarantees
 - [`anvil-vector-dot-product`](https://github.com/IntikhabKhursheed/anvil-vector-dot-product) — SystemVerilog accelerator with a full Anvil reimplementation and differential testing
 
-### 📫 Reach me
+###  Reach me
 
 [LinkedIn](https://linkedin.com/in/intikhab-khursheed-afridi-028a51285) · [Portfolio](https://intikhabkhurheed.netlify.app/) · [X](https://x.com/IntikhabAfridi7)
